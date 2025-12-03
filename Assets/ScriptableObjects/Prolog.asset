@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94fe623623d51894f83a9bace246ad73, type: 3}
+  m_Name: Prolog
+  m_EditorClassIdentifier: 
+  scenes:
+  - {fileID: -855298285791758126, guid: 847bec162f979ff4d9c23bfb805b9a73, type: 3}
+  - {fileID: 6937817954938267909, guid: 6e02b407346bfa64981c80918d1db2e7, type: 3}
+  - {fileID: -6470460504253458178, guid: 398b9936719d4cb4da735375e6eab6ca, type: 3}
+  - {fileID: -4178046375966092550, guid: 50f170b5a7f128646a19c3b75b59258b, type: 3}
